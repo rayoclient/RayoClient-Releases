@@ -1,0 +1,10 @@
+﻿{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-04",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/rayoclient/RayoClient-Releases/releases/download/v1.0.0/update.zip",
+  "installerUrl": "https://github.com/rayoclient/RayoClient-Releases/releases/download/v1.0.0/RayoClient-Setup.exe",
+  "sha256": "110a3e1516e1e070bff6aa2727eba8eb9d93c164106e0e9a64f484afe1f0e95f",
+  "packageSizeBytes": 9368314,
+  "releaseNotes": "Versi\u00f3n 1.0.0 de Rayo Client con soporte de actualizaciones autom\u00e1ticas y optimizaciones continuas."
+}
